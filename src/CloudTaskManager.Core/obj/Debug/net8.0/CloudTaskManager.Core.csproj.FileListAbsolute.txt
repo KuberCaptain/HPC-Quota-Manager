@@ -1,0 +1,11 @@
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Core/obj/Debug/net8.0/CloudTaskManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Core/obj/Debug/net8.0/CloudTaskManager.Core.AssemblyInfoInputs.cache
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Core/obj/Debug/net8.0/CloudTaskManager.Core.AssemblyInfo.cs
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Core/obj/Debug/net8.0/CloudTaskManager.Core.csproj.CoreCompileInputs.cache
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Core/bin/Debug/net8.0/CloudTaskManager.Core.deps.json
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Core/bin/Debug/net8.0/CloudTaskManager.Core.dll
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Core/bin/Debug/net8.0/CloudTaskManager.Core.pdb
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Core/obj/Debug/net8.0/CloudTaskManager.Core.dll
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Core/obj/Debug/net8.0/refint/CloudTaskManager.Core.dll
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Core/obj/Debug/net8.0/CloudTaskManager.Core.pdb
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Core/obj/Debug/net8.0/ref/CloudTaskManager.Core.dll

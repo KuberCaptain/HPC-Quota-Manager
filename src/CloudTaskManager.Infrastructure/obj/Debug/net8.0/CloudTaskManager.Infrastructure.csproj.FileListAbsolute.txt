@@ -1,0 +1,5 @@
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Infrastructure/obj/Debug/net8.0/CloudTaskManager.Infrastructure.csproj.AssemblyReference.cache
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Infrastructure/obj/Debug/net8.0/CloudTaskManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Infrastructure/obj/Debug/net8.0/CloudTaskManager.Infrastructure.AssemblyInfoInputs.cache
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Infrastructure/obj/Debug/net8.0/CloudTaskManager.Infrastructure.AssemblyInfo.cs
+/home/ari/Документы/проект си шарп/src/CloudTaskManager.Infrastructure/obj/Debug/net8.0/CloudTaskManager.Infrastructure.csproj.CoreCompileInputs.cache
